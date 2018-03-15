@@ -1,0 +1,215 @@
+"originalorder","field","topic","description","r","ci_lower","ci_upper","k","n","reference","year"
+1,"Health communication","Health behavior is associated with ...","perceived susceptibility",0.05,NA,NA,18,2702,"Carpenter, 2010",2010
+2,"Health communication","Health behavior is associated with ...","perceived benefits",0.27,NA,NA,15,1949,"Carpenter, 2010",2010
+3,"Health communication","Health behavior is associated with ...","perceived barriers",0.3,NA,NA,17,2669,"Carpenter, 2010",2010
+4,"Health communication","Health behavior is associated with ...","perceived severity",0.15,NA,NA,17,2629,"Carpenter, 2010",2010
+5,"Health communication","Computer-mediated interventions ...","improve HIV/AIDS knowledge",0.14,0.11,0.16,15,6625,"Noar et al., 2010",2010
+6,"Health communication","Computer-mediated interventions ...","improve condom/sexual attitudes",0.08,0.05,0.11,12,5816,"Noar et al., 2010",2010
+7,"Health communication","Computer-mediated interventions ...","improve quality of life when they include a group support component",0.14,0.07,0.21,14,954,"Rains & Young, 2009",2009
+8,"Health communication","Computer-mediated interventions ...","lead to greater improvements in health outcomes when tailored than not tailored",0.07,0.06,0.08,40,NA,"Lustria et al., 2013",2013
+9,"Health communication","Media-based health campaigns ...","lead to changes in health behavior",0.09,0.07,0.1,48,168362,"Snyder, 2004",2004
+10,"Health communication","Media-based health campaigns ...","promote organ donation",0.05,0.03,0.07,23,6647801,"Feeley et al., 2009",2009
+11,"Health communication","Viewing media coverage of ...","Magic Johnson’s HIV-positive announcement is associated with reduced perceptions of vulnerability to HIV",0.02,NA,NA,13,3460,"Casey et al., 2007",2007
+12,"Health communication","Viewing media coverage of ...","terrorism is associated with post-traumatic stress",0.15,0.12,0.19,23,2267,"Houston, 2009",2009
+13,"Health communication","Condom use intentions and behavior are greater among people who ...","talk about condoms prior to sex",0.16,NA,NA,26,5511,"Allen et al., 2002",2002
+14,"Health communication","Condom use intentions and behavior are greater among people who ...","engage in safer sex communication with their partners",0.22,0.2,0.23,55,18529,"Noar et al., 2006",2006
+15,"Health communication","Condom use intentions and behavior are greater among people who ...","perceive greater levels of response efficacy",0.09,NA,NA,34,11568,"Casey et al., 2009",2009
+16,"Health communication","Condom use intentions and behavior are greater among people who ...","perceive greater levels of self-efficacy",0.22,NA,NA,100,30691,"Casey et al., 2009",2009
+17,"Health communication","Viewing media coverage of ...","More acculturated Latinos have a greater likelihood of engaging in behaviors that put them at risk for contracting HIV/AIDS",0.14,NA,NA,10,12719,"Bradford et al., 2002",2002
+18,"Health communication","Parental disclosure of HIV increases ...","negative externalizing behavior of children",0.09,0.04,0.17,17,1420,"Tenzek et al., 2013",2013
+19,"Health communication","Parental disclosure of HIV increases ...","negative internalizing behavior of children",0.11,0.02,0.2,17,1237,"Tenzek et al., 2013",2013
+20,"Health communication","In research on psychosocial problems ...","people with depression report having less social skill than people who are not depressed",0.41,NA,NA,23,2144,"Segrin, 1990",1990
+21,"Health communication","In research on psychosocial problems ...","social anxiety is associated with physiological responses",0.36,NA,NA,28,2203,"Patterson & Ritts, 1996",1996
+22,"Health communication","In research on psychosocial problems ...","social anxiety is associated with behavioral responses",0.4,NA,NA,120,11205,"Patterson & Ritts, 1996",1996
+23,"Health communication","In research on psychosocial problems ...","social anxiety is associated with cognitive responses",0.47,NA,NA,232,27195,"Patterson & Ritts, 1996",1996
+24,"Health communication","Driving performance is impaired by (the effects of) ...","text messaging",0.57,0.43,0.71,10,201,"Pascual-Ferra et al., 2012",2012
+25,"Health communication","Driving performance is impaired by (the effects of) ...","marijuana",0.27,0.14,0.39,10,243,"Pascual-Ferra et al., 2012",2012
+26,"Instructional Communication","Student learning/achievement is associated with ...","teacher clarity",0.36,0.33,0.38,144,73281,"Titsworth et al., 2015; Study 1",2015
+27,"Instructional Communication","Student learning/achievement is associated with ...","teacher clarity",0.46,0.4,0.51,37,6612,"Titsworth et al., 2015; Study 2",2015
+28,"Instructional Communication","Student learning/achievement is associated with ...","teacher clarity",0.53,0.48,0.58,19,6889,"Titsworth et al., 2015; Study 2",2015
+29,"Instructional Communication","Student learning/achievement is associated with ...","teacher use of PowerPoint",0.13,NA,NA,16,1778,"Shapiro et al., 2006",2006
+30,"Instructional Communication","Student learning/achievement is associated with ...","teacher immediacy",0.5,NA,NA,81,24474,"Witt et al., 2004",2004
+31,"Instructional Communication","Student learning/achievement is associated with ...","oral questioning",0.33,NA,NA,13,2337,"Gayle et al., 2006",2006
+32,"Instructional Communication","Student learning/achievement is associated with ...","humor in classroom lectures",0.2,NA,NA,21,4801,"Martin et al., 2006",2006
+33,"Instructional Communication","Student learning/achievement is associated with ...","use of conceptual previews",0.23,NA,NA,20,1937,"Priess & Gayle, 2006",2006
+34,"Instructional Communication","Student learning/achievement is associated with ...","perceptions of teacher credibility",0.45,NA,NA,51,14378,"Finn et al., 2009",2009
+35,"Instructional Communication","Student learning/achievement is associated with ...","lower levels of communication apprehension",0.12,NA,NA,28,10728,"Bourhis & Allen, 1992",1992
+36,"Instructional Communication","Student learning/achievement is associated with ...","slower speaking rate of a presenter",0.42,NA,NA,28,3274,"Preiss & Gayle, 2006",2006
+37,"Instructional Communication","Compared to traditional forms of instruction ...","computer-assisted instruction in postsecondary education is more effective",0.12,NA,NA,57,6206,"Timmerman & Kruepke, 2006b",2006
+38,"Instructional Communication","Compared to traditional forms of instruction ...","students in computer-assisted instruction courses achieve better performance outcomes",0.12,NA,NA,118,12398,"Timmerman & Kruepke, 2006a",2006
+39,"Instructional Communication","Compared to traditional forms of instruction ...","distance education students perform better",0.05,NA,NA,54,74275,"Allen et al., 2006",2006
+40,"Instructional Communication","Compared to traditional forms of instruction ...","distance education students perform better",0.05,NA,NA,39,71731,"Allen et al., 2004",2004
+41,"Instructional Communication","Compared to traditional forms of instruction ...","students prefer distance learning courses less",0.03,NA,NA,25,4702,"Allen et al., 2006",2006
+42,"Instructional Communication","Public speaking anxiety is reduced by ...","treatment techniques",0.17,NA,NA,55,1197,"physiological measures; Allen, 1989",1989
+43,"Instructional Communication","Public speaking anxiety is reduced by ...","treatment techniques",0.21,NA,NA,123,3251,"observer-rated measures; Allen, 1989",1989
+44,"Instructional Communication","Public speaking anxiety is reduced by ...","treatment techniques",0.26,NA,NA,169,5857,"self-report measures; Allen, 1989",1989
+45,"Instructional Communication","Public speaking anxiety is reduced by ...","cognitive modification treatments",0.29,NA,NA,20,382,"Allen et al., 1989",1989
+46,"Instructional Communication","Public speaking anxiety is reduced by ...","systematic desensitization treatments",0.27,NA,NA,64,1499,"Allen et al., 1989",1989
+47,"Instructional Communication","Public speaking anxiety is reduced by ...","skills training treatments",0.16,NA,NA,47,3516,"Allen et al., 1989",1989
+48,"Instructional Communication","Critical thinking is improved by ...","communication skills training",0.24,0.19,0.29,10,1526,"Berkowitz, 2006",2006
+49,"Instructional Communication","Critical thinking is improved by ...","communication skill exercises",0.18,0.14,0.21,17,2657,"longitudinal studies; Allen et al., 1999",1999
+50,"Instructional Communication","Critical thinking is improved by ...","communication skill exercises",0.2,0.16,0.23,13,2395,"cross-sectional studies; Allen et al., 1999",1999
+51,"Instructional Communication","Peer mediation programs in schools are associated with ...","decreased disciplinary actions by administrators",0.28,NA,NA,12,4667,"Burrell et al., 2006",2006
+52,"Instructional Communication","Peer mediation programs in schools are associated with ...","decreased disciplinary actions by administrators",0.28,NA,NA,12,5313,"Burrell et al., 2014",2014
+53,"Instructional Communication","Peer mediation programs in schools are associated with ...","increased knowledge of conflict among students",0.53,NA,NA,14,1138,"Burrell et al., 2006",2006
+54,"Instructional Communication","Peer mediation programs in schools are associated with ...","increased knowledge of conflict among students",0.54,NA,NA,17,1499,"Burrell et al., 2014",2014
+55,"Instructional Communication","Peer mediation programs in schools are associated with ...","strategies used by peer mediators in managing disputes",0.41,NA,NA,14,1298,"Burrell et al., 2006",2006
+56,"Instructional Communication","Peer mediation programs in schools are associated with ...","strategies used by peer mediators in managing disputes",0.41,NA,NA,14,1298,"Burrell et al., 2014",2014
+57,"Instructional Communication","Peer mediation programs in schools are associated with ...","Teachers interact more with male than female students",0.09,NA,NA,29,8612,"Jones et al., 2006",2006
+58,"Instructional Communication","Peer mediation programs in schools are associated with ...","Day care is more beneficial than family care",0.05,NA,NA,47,7800,"Timmerman, 2006",2006
+59,"Instructional Communication","Peer mediation programs in schools are associated with ...","Research productivity is positively associated with teaching quality",0.11,NA,NA,47,65263,"Allen, 2006",2006
+60,"Interpersonal Communication","Relative to men, women ...","have higher self-esteem",0.01,NA,NA,124,379217,"Sahlstein & Allen, 2002",2002
+61,"Interpersonal Communication","Relative to men, women ...","use less powerful language",0.11,NA,NA,30,3012,"Timmerman, 2002",2002
+62,"Interpersonal Communication","Relative to men, women ...","are more likely to use their families for support during divorce",0.17,NA,NA,26,9258,"Burrell, 2002",2002
+63,"Interpersonal Communication","Relative to men, women ...","are more likely to use their friends for support during divorce",0.17,NA,NA,13,3177,"Burrell, 2002",2002
+64,"Interpersonal Communication","Relative to men, women ...","are more likely to use an avoidant style for nonintimate interpersonal conflict",0.05,NA,NA,31,5155,"Gayle et al., 2002; Study 1",2002
+65,"Interpersonal Communication","Relative to men, women ...","are more likely to use an avoidance conflict strategy",0.03,NA,NA,65,22454,"Gayle et al., 2014",2014
+66,"Interpersonal Communication","Relative to men, women ...","are less likely to use a competitive style for nonintimate interpersonal conflict",0.15,NA,NA,33,5261,"Gayle et al., 2002; Study 1",2002
+67,"Interpersonal Communication","Relative to men, women ...","are less likely to use a competitive conflict strategy",0.09,NA,NA,91,30118,"Gayle et al., 2014",2014
+68,"Interpersonal Communication","Relative to men, women ...","are more likely to use a compromising style for nonintimate interpersonal conflict",0.12,NA,NA,34,5283,"Gayle et al., 2002; Study 1",2002
+69,"Interpersonal Communication","Relative to men, women ...","are more likely to use a compromising conflict strategy",0.09,NA,NA,68,20345,"Gayle et al., 2014",2014
+70,"Interpersonal Communication","Relative to men, women ...","are more likely to use a collaborative style for nonintimate interpersonal conflict",0.04,NA,NA,32,5181,"Gayle et al., 2002; Study 1",2002
+71,"Interpersonal Communication","Relative to men, women ...","are more likely to use an accommodation conflict strategy",0.06,NA,NA,63,1779,"Gayle et al., 2014",2014
+72,"Interpersonal Communication","Relative to men, women ...","are more likely to use a power strategy in marital conflict",0.12,NA,NA,11,918,"Gayle et al., 2002; Study 2",2002
+73,"Interpersonal Communication","Relative to men, women ...","are less likely to perceive that others are being flirtatious during interaction",0.09,0.03,0.15,28,3631,"LaFrance et al., 2009",2009
+74,"Interpersonal Communication","In intercultural communication ...","accommodation behaviors are associated with interaction outcomes",0.31,0.3,0.33,76,18382,"Soliz & Giles, 2014",2014
+75,"Interpersonal Communication","In intercultural communication ...","people from Western cultures score higher on independent self-construal measures than people from Asian cultures",0.21,0.1,0.32,13,4527,"Levine et al., 2003",2003
+76,"Interpersonal Communication","In intercultural communication ...","people from Western cultures score lower on interdependent self-construal measures than people from Asian cultures",0.11,-0.02,0.23,13,4669,"Levine et al., 2003",2003
+77,"Interpersonal Communication","In intercultural communication ...","self-esteem is positively associated with perceptions of one’s own racial group",0.14,NA,NA,38,8475,"Allen et al., 1997",1997
+78,"Interpersonal Communication","In family communication ...","family communication patterns are associated with information processing, behavioral, and psychosocial outcomes",0.29,NA,NA,56,19745,"Schrodt et al., 2008",2008
+79,"Interpersonal Communication","In family communication ...","non-maltreated children display more positivity than maltreated children when interacting with their parents",0.21,0.15,0.26,24,1545,"Wilson et al., 2010",2010
+80,"Interpersonal Communication","In family communication ...","maltreated children display more aversive behavior than non-maltreated children when interacting with their parents",0.15,0.08,0.21,29,1868,"Wilson et al., 2010",2010
+81,"Interpersonal Communication","In family communication ...","maltreated children display greater involvement than maltreated children when interacting with their parents",0.25,0.12,0.36,22,1136,"Wilson et al., 2010",2010
+82,"Interpersonal Communication","In family communication ...","the children of homosexual parents fare better socially than the children of heterosexual parents",0.06,NA,NA,13,619,"adult perspective; Allen & Burrell, 2002",2002
+83,"Interpersonal Communication","In family communication ...","the children of homosexual parents fare better socially than the children of heterosexual parents",0.001,NA,NA,15,775,"child perspective; Allen & Burrell, 2002",2002
+84,"Interpersonal Communication","In family communication ...","Homophobia interventions reduce homophobia",0.34,NA,NA,11,1883,"Allen et al., 2014",2014
+85,"Interpersonal Communication","Communication apprehension ...","when measured as a trait is correlated with state/situational anxiety",0.45,NA,NA,17,NA,"Booth-Butterfield, 1988",1988
+86,"Interpersonal Communication","Communication apprehension ...","is associated with reduced quality or quantity of communication behavior",0.22,NA,NA,36,3742,"Allen & Bourhis, 1996",1996
+87,"Interpersonal Communication","Communication apprehension ...","in the form of dating anxiety is significantly reduced by interventions",0.34,NA,NA,20,692,"Allen et al., 1998",1998
+88,"Interpersonal Communication","In research on mediation ...","participation in victim-offender mediation reduces the likelihood of recidivism",0.17,NA,NA,14,4183,"Mullane et al., 2014",2014
+89,"Interpersonal Communication","In research on mediation ...","couples who used divorce mediation were more satisfied with the outcomes than couples who used litigation",0.28,NA,NA,50,4796,"Kwiatkowski, 2014",2014
+90,"Interpersonal Communication","In conflict games ...","threatening moves are associated with compliance from other players",0.32,NA,NA,13,793,"Preiss et al., 2014; Study 1",2014
+91,"Interpersonal Communication","In conflict games ...","threatening moves are associated with cooperation from other players",0.07,NA,NA,18,1013,"Preiss et al., 2014; Study 1",2014
+92,"Interpersonal Communication","In conflict games ...","employing threats reduces joint payoffs",0.29,NA,NA,11,447,"Preiss et al., 2014; Study 1",2014
+93,"Interpersonal Communication","In conflict games ...","following through on messages promotes cooperation",0.39,NA,NA,10,505,"Preiss et al., 2014; Study 2",2014
+94,"Interpersonal Communication","In conflict games ...","hardline bargaining strategies produce more beneficial outcomes than softline strategies",0.2,NA,NA,34,2559,"Herman & Allen, 2014",2014
+95,"Interpersonal Communication","Social or communication skill is associated with ...","increased use of (primarily nonverbal) molecular behavior during interaction",0.31,NA,NA,18,NA,"Spitzberg & Dillard, 2002",2002
+96,"Interpersonal Communication","Social or communication skill is associated with ...","decreased likelihood of committing a sexual offense/aggression",0.15,NA,NA,11,2070,"Emmers-Sommer et al., 2004",2004
+97,"Interpersonal Communication","Demand/withdrawal patterns in relationships are associated with ...","individual, relational, communicative outcomes",0.36,NA,NA,74,14255,"Schrodt et al., 2014",2014
+98,"Interpersonal Communication","Demand/withdrawal patterns in relationships are associated with ...","decreased marital satisfaction",0.32,NA,NA,20,4192,"Burrell et al., 2014",2014
+99,"Interpersonal Communication","Demand/withdrawal patterns in relationships are associated with ...","decreased communication satisfaction",0.33,NA,NA,11,2160,"Burrell et al., 2014",2014
+100,"Interpersonal Communication","In social interaction or relationships ...","attitude similarity is positively associated with interpersonal attraction",0.51,0.46,0.56,91,10588,"AhYun, 2002",2002
+101,"Interpersonal Communication","In social interaction or relationships ...","the motivation to approach arguments is positively associated with verbal aggressiveness",0.16,NA,NA,12,3397,"Hamilton & Mineo, 2002",2002
+102,"Interpersonal Communication","In social interaction or relationships ...","extraversion is positively associated with expressive nonverbal behavior",0.13,0.06,0.21,13,1002,"LaFrance et al., 2004",2004
+103,"Interpersonal Communication","In social interaction or relationships ...","speaking time is positively associated with dominance",0.51,0.48,0.54,45,2850,"Mast, 2002",2002
+104,"Interpersonal Communication","In social interaction or relationships ...","level of person-centeredness is positively associated with beneficial social support outcomes",0.61,0.53,0.7,23,5242,"High & Dillard, 2012",2012
+105,"Interpersonal Communication","In social interaction or relationships ...","accounts for violating social norms improve perceptions of the violator",0.2,NA,NA,189,35222,"Benoit et al., 2014",2014
+106,"Interpersonal Communication","In social interaction or relationships ...","resting levels of asymmetry in the anterior region of the prefrontal cortex is associated with social interaction variables",0.45,0.34,0.51,14,572,"Pence et al., 2011",2011
+107,"Interpersonal Communication","In social interaction or relationships ...","socio-emotional communication in CMC is greater when interaction time is not limited",0.09,NA,NA,21,NA,"Walther et al., 1994",1994
+108,"Media","Media consumption ...","influences the public’s perceptions of issue importance",0.53,0.47,0.59,90,NA,"Wanta & Ghanem, 2007",2007
+109,"Media","Media consumption ...","is associated with viewers’ perceptions of social reality",0.09,NA,NA,52,NA,"Morgan & Shanahan, 1996",1996
+110,"Media","Media consumption ...","is associated with acceptance of sexual stereotypes",0.1,NA,NA,20,1194,"Herrett-Skjellum & Allen, 1995",1995
+111,"Media","Media consumption ...","in the form of television viewing is associated with the degree to which people have parasocial relationships",0.22,NA,NA,15,4945,"Schiappa et al., 2007",2007
+112,"Media","Media consumption ...","is perceived by audience members to have greater effects on others than themselves",0.5,NA,NA,121,45729,"Paul et al., 2000",2000
+113,"Media","Media consumption ...","is associated with body image",0.08,NA,NA,34,NA,"Holmstrom, 2004",2004
+114,"Media","Exposure to sexually explicit media ...","leads to greater agreement with rape myths or perceptions of sexual relationships as adversarial",0.15,NA,NA,NA,2248,"Mundorf et al., 2007",2007
+115,"Media","Exposure to sexually explicit media ...","leads to increased aggressive behavior",0.17,NA,NA,24,1229,"Mundorf et al., 2007",2007
+116,"Media","Exposure to sexually explicit media ...","increases behavioral aggression",0.13,NA,NA,33,2040,"Allen, D’Alessio, et al., 1995",1995
+117,"Media","Exposure to sexually explicit media ...","is positively associated with acceptance of rape myths",0.1,NA,NA,24,4268,"Allen, Emmers, et al., 1995",1995
+118,"Media","Exposure to sexually explicit media ...","is greater among sexual criminals than non-criminals",0.06,NA,NA,13,2543,"Allen, D’Alessio, & Emmers-Sommer, 1999",1999
+119,"Media","Exposure to sexually explicit media ...","Physiological arousal in response to pornography is associated with positive emotional responses",0.21,NA,NA,33,2552,"Allen et al., 2007",2007
+120,"Media","In research on media selection ...","people select media that are congruent with their attitudes or avoid media that are incongruent",0.16,NA,NA,17,1953,"D’Alessio & Allen, 2007; Study 1",2007
+121,"Media","In research on media selection ...","following a decision, people select material consistent with a decision and reject material that contradicts the decision",0.24,NA,NA,22,2101,"D’Alessio & Allen, 2007; Study 2",2007
+122,"Media","In research on media selection ...","television is used for a variety of purposes",0.07,NA,NA,24,7385,"Emmers-Sommer & Allen, 1999",1999
+123,"Media","In research on media violence ...","selective exposure is greater with more violent content",0.15,0.1,0.21,8,1203,"Weaver, 2011",2011
+124,"Media","In research on media violence ...","enjoyment is inversely associated with violent content",0.15,0.11,0.19,18,2501,"Weaver, 2011",2011
+125,"Media","In research on media violence ...","media consumption influences beliefs about violence in the world",0.14,NA,NA,17,6622,"Emmers-Sommer & Allen, 1999",1999
+126,"Media","In research on media violence ...","exposure to television violence is positively associated with antisocial behavior",0.31,NA,NA,1142,NA,"Paik & Comstock, 1994",1994
+127,"Media","In research on media violence ...","videogame play is positively associated with aggression",0.15,NA,NA,25,2722,"Sherry, 2001",2001
+128,"Media","In research on media violence ...","men enjoy mediated fright and violence more than women",0.22,0.16,0.27,30,4914,"Hoffner & Levine, 2007",2007
+129,"Media","In research on media violence ...","exposure to violent media is associated with increased aggression",0.17,0.09,0.25,13,NA,"Christensen & Wood, 2007",2007
+130,"Media","In research on media and political communication ...","newspaper exposure is positively associated with political involvement",0.33,0.26,0.4,15,8579,"Hollander, 2007",2007
+131,"Media","In research on media and political communication ...","television exposure is positively associated with political involvement",0.13,0.05,0.21,15,8579,"Hollander, 2007",2007
+132,"Media","In research on media and political communication ...","news coverage of presidential election campaigns is biased to favor Republicans",0.01,NA,NA,132,NA,"D’Alessio & Allen, 2000",2000
+133,"Media","In research on media and political communication ...","knowledge of candidates’ issue positions",0.26,0.2,0.32,18,7202,"Benoit et al., 2003",2003
+134,"Media","In research on media and political communication ...","watching general election debates is positively associated with vote preference",0.15,0.1,0.21,25,8876,"Benoit et al., 2003",2003
+135,"Media","In research on media and political communication ...","people perceive news coverage to be biased against their point of view",0.3,0.23,0.37,34,9293,"Hansen & Kim, 2011",2011
+136,"Media","Music exposure is associated with ...","increased anti-social beliefs and actions",0.21,NA,NA,35,11629,"Timmerman et al., 2008",2008
+137,"Media","Music exposure is associated with ...","increased antisocial actions and beliefs",0.23,NA,NA,23,7003,"Allen, Herrett-Skjellum, et al., 2007",2007
+138,"Media","Exposure to ...","advertising improves attitudes toward brands",0.15,NA,NA,16,4551,"Desmond & Carveth, 2007",2007
+139,"Media","Exposure to ...","advertising leads to greater brand comprehension",0.18,0.05,0.23,10,2431,"Desmond & Carveth, 2007",2007
+140,"Media","Exposure to ...","stereotypes about gender in media are positively associated with stereotype-consistent attitudes and behaviors",0.12,0.04,0.2,20,11417,"non-experimental studies; Oppliger, 2007",2007
+141,"Media","Exposure to ...","stereotypes about gender in media are positively associated with stereotype-consistent attitudes and behaviors",0.24,0.04,0.43,13,1180,"experimental studies; Oppliger, 2007",2007
+142,"Media","Exposure to ...","content displaying stereotypes increases stereotype-consistent attitudes",0.21,NA,NA,11,1091,"Herrett-Skjellum & Allen, 1995",1995
+143,"Media","Exposure to ...","television programs produced in foreign countries impact domestic viewers’ beliefs",0.09,NA,NA,11,6447,"Elasmar & Hunter, 1996",1996
+144,"Media","Prosocial effects of media ...","children who watch prosocial content behave more positively or hold more positive attitudes",0.23,0.25,0.3,108,5473,"Mares & Woodard, 2005",2005
+145,"Media","Prosocial effects of media ...","medial literacy interventions have pro-social effects",0.18,0.13,0.23,51,NA,"Jeong et al., 2012",2012
+146,"Media","Problematic Internet use is ...","positively associated with depression",0.37,NA,NA,23,452,"Tokunaga & Rains, 2010",2010
+147,"Media","Problematic Internet use is ...","positively associated with time spent using the Internet",0.39,NA,NA,46,411,"Tokunaga & Rains, 2010",2010
+148,"Media","Problematic Internet use is ...","Media priming influences subsequent behaviors or judgements",0.1,0.09,0.11,63,NA,"Roskos-Ewoldsen et al., 2007",2007
+149,"Media","Problematic Internet use is ...","Involvement with entertainment media is associated with viewing outcomes",0.27,0.25,0.3,45,9836,"Tukachinsky & Tokunaga, 2013",2013
+150,"Media","Problematic Internet use is ...","Age is positively associated with the ability to understand media content",0.47,NA,NA,18,2362,"Emmers-Sommer & Allen, 1999",1999
+151,"Media","Problematic Internet use is ...","Education is positively associated with knowledge",0.28,0.24,0.33,46,105483,"Hwang & Jeong, 2009",2009
+152,"Organizational/group","Problematic Internet use is ...","Male and female managers communicate differently",0.07,NA,NA,174,NA,"Wilkins & Andersen, 1991",1991
+153,"Organizational/group","Problematic Internet use is ...","Social support is associated with reduced turnover indicators",0.3,0.22,0.37,19,6003,"Feeley et al., 2010",2010
+154,"Organizational/group","In small group research ...","groups using a group support system produce a greater number of unique ideas than groups meeting face-to-face",0.49,0.18,0.23,13,270,"Rains, 2005",2005
+155,"Organizational/group","In small group research ...","groups using a group support system experience greater influence equality than groups meeting face-to-face",0.11,0.01,0.1,10,429,"Rains, 2005",2005
+156,"Organizational/group","In small group research ...","groups using a group support system experience smaller decision shifts than groups meeting face-to-face",0.06,-0.02,0.08,11,341,"Rains, 2005",2005
+157,"Organizational/group","In small group research ...","groups discuss more information that is shared by group members than is unshared",0.53,0.08,0.76,45,1176,"Reimer et al., 2010",2010
+158,"Organizational/group","In small group research ...","larger juries are more likely to not reach a decision",0.14,NA,NA,18,2735,"Mabry et al., 2014",2014
+159,"Persuasion","Attitude/behavior change is caused by ...","fear appeals",0.21,NA,NA,25,3892,"attitude change; Boster & Mongeau, 1984",1984
+160,"Persuasion","Attitude/behavior change is caused by ...","fear appeals",0.1,NA,NA,15,3080,"behavior change; Boster & Mongeau, 1984",1984
+161,"Persuasion","Attitude/behavior change is caused by ...","fear appeals",0.19,NA,NA,29,4311,"attitude change; Mongeau, 1986",1986
+162,"Persuasion","Attitude/behavior change is caused by ...","fear appeals",0.12,NA,NA,19,3445,"behavior change; Mongeau, 1986",1986
+163,"Persuasion","Attitude/behavior change is caused by ...","testimonial assertion evidence involving outside information",0.19,NA,NA,16,2800,"Reinard, 1986",1986
+164,"Persuasion","Attitude/behavior change is caused by ...","greater levels of language intensity",0.02,NA,NA,11,3864,"Hamilton & Hunter, 1986",1986
+165,"Persuasion","Attitude/behavior change is caused by ...","fewer incentives in counterattudinal advocacy",0.11,NA,NA,41,2682,"Preiss & Allen, 1986",1986
+166,"Persuasion","Attitude/behavior change is caused by ...","messages with more supporting evidence",0.21,NA,NA,31,4703,"Stiff, 1986",1986
+167,"Persuasion","Attitude/behavior change is caused by ...","messages from higher credibility sources",0.1,NA,NA,10,1345,"Stiff, 1986",1986
+168,"Persuasion","Attitude/behavior change is caused by ...","strong arguments among people in a negative or neutral mood",0.35,0.28,0.43,27,1146,"Hullett, 2005",2005
+169,"Persuasion","Attitude/behavior change is caused by ...","strong arguments among people in a positive mood",0.29,0.18,0.39,12,622,"Hullett, 2005",2005
+170,"Persuasion","Attitude/behavior change is caused by ...","argument quality when audience members engage in central processing relative to peripheral processing",0.33,NA,NA,134,15426,"Carpenter, 2015",2015
+171,"Persuasion","Attitude/behavior change is caused by ...","greater levels of distraction",0.03,NA,NA,104,4000,"Buller, 1986",1986
+172,"Persuasion","Attitude/behavior change is caused by ...","use of metaphor",0.07,0.04,0.1,38,3945,"Sopory & Dillard, 2002",2002
+173,"Persuasion","Attitude/behavior change is caused by ...","engaging in counterattiduinal advocacy",0.22,0.21,0.24,230,17505,"Kim et al., 2014",2014
+174,"Persuasion","People are more persuaded …","by two-sided messages than the one-sided messages",0.04,NA,NA,26,7547,"Allen, 1991",1991
+175,"Persuasion","People are more persuaded ...","by two-sided messages than the one-sided messages",0.03,NA,NA,70,1058,"Allen, 1986",1986
+176,"Persuasion","People are more persuaded ...","by one-sided messages than two-sided messages",0,-0.04,0.04,107,20111,"O’Keefe, 1999",1999
+177,"Persuasion","People are more persuaded ...","when rhetorical questions are used",0.05,NA,NA,18,1948,"Gayle et al, 1986",1986
+178,"Persuasion","People are more persuaded ...","by powerful language than powerless language",0.23,NA,NA,5,413,"Burrell & Koper, 1986",1986
+179,"Persuasion","People are more persuaded ...","by examples than base-rate information",0.18,NA,NA,14,2634,"Allen et al., 2006",2006
+180,"Persuasion","People are more persuaded ...","when messages match attitude functions than when mismatched",0.37,NA,NA,38,1460,"Carpenter, 2012",2012
+181,"Persuasion","People are more persuaded ...","by culturally adapted advertisements than non-adapted ads",0.07,0.03,0.12,67,6755,"Hornikx & O’Keefe, 2009",2009
+182,"Persuasion","People are more persuaded ...","by statistical evidence than narrative evidence",0.07,NA,NA,16,1836,"Allen & Preiss, 1997",1997
+183,"Persuasion","People are more persuaded ...","by gain framed messages than loss framed messages",0.02,0,0.04,165,5078,"O’Keefe & Jensen, 2006",2006
+184,"Persuasion","People are more persuaded ...","by loss framed messages than gain framed messages in the context of vaccination",0.02,-0.02,0.06,32,11814,"O’Keefe & Nan, 2012",2012
+185,"Persuasion","People are more persuaded ...","by gain framed messages than loss framed messages in the context of prevention",0.03,0.01,0.06,93,21656,"O’Keefe & Jensen, 2007",2007
+186,"Persuasion","People are more persuaded ...","by loss framed messages than gain framed messages in the context of detection",0.04,0.01,0.07,53,9145,"O’Keefe & Jensen, 2009",2009
+187,"Persuasion","Compliance is induced by the ...","foot-in-the-door technique",0.11,NA,NA,28,4927,"Dillard et al., 1984",1984
+188,"Persuasion","Compliance is induced by the ...","door-in-the-face technique",0.08,NA,NA,18,2524,"Dillard et al., 1984",1984
+189,"Persuasion","Compliance is induced by the ...","door-in-the-face technique",0.05,-0.02,0.12,39,NA,"behavioral compliance; Feeley et al., 2012",2012
+190,"Persuasion","Compliance is induced by the ...","door-in-the-face technique",0.13,0.08,0.17,78,NA,"verbal compliance; Feeley et al., 2012",2012
+191,"Persuasion","Compliance is induced by the ...","door-in-the-face technique",0.1,0.05,0.14,88,7780,"O’Keefe & Hale, 1998",1998
+192,"Persuasion","Compliance is induced by the ...","legitimization of paltry contributions technique",0.11,NA,NA,19,2730,"Andrews et al., 2008",2008
+193,"Persuasion","Compliance is induced by the ...","disrupt-them-reframe technique",0.28,NA,NA,14,1106,"Carpenter & Boster, 2009",2009
+194,"Persuasion","Compliance is induced by the ...","but-you-are-free technique",0.13,NA,NA,42,22333,"Carpenter, 2013",2013
+195,"Persuasion","Counterarguing is ...","increased by freedom-threatening messages",0.21,0.16,0.27,17,3879,"Rains, 2013",2013
+196,"Persuasion","Counterarguing is ...","decreased by distraction",0.17,NA,NA,31,957,"Buller, 1986",1986
+197,"Persuasion","In research on persuasion resistance ...","audience members forewarned to expect a persuasive speech are less persuaded by the speech than those who are not forewarned",0.18,NA,NA,12,1359,"Benoit, 1986",1986
+198,"Persuasion","In research on persuasion resistance ...","inoculated individuals are less susceptible to a persuasive attack than people who are not inoculated",0.21,0.19,0.23,41,1066,"Banas & Rains, 2010",2010
+199,"Persuasion","In research on persuasion resistance ...","freedom-threatening messages cause more negative attitudes",0.06,-0.03,0.14,11,2991,"Rains, 2013",2013
+200,"Persuasion","Message engagement/comprehension is ...","decreased by distraction",0.23,NA,NA,34,915,"Buller, 1986",1986
+201,"Persuasion","Message engagement/comprehension is ...","increased by gain framed messages relative to loss framed messages",0.06,0.02,0.1,42,6378,"O’Keefe & Jensen, 2008",2008
+202,"Persuasion","Emotions play a role in persuasion ...","fear appeals cause perceptions of fear",0.36,NA,NA,40,7016,"Boster & Mongeau, 1984",1984
+203,"Persuasion","Emotions play a role in persuasion ...","fear appeals cause perceptions of fear",0.35,NA,NA,45,7645,"Mongeau, 1986",1986
+204,"Persuasion","Emotions play a role in persuasion ...","freedom-threatening messages cause anger",0.23,0.17,0.29,19,4757,"Rains, 2013",2013
+205,"Persuasion","The relationships among attitudes, behavioral intentions, and behavior ...","attitudes are correlated with behavioral intentions",0.87,0.83,0.91,92,16785,"Kim & Hunter, 1993a",1993
+206,"Persuasion","The relationships among attitudes, behavioral intentions, and behavior ...","behavioral intentions are correlated with behavior",0.82,0.7,0.94,47,10203,"Kim & Hunter, 1993a",1993
+207,"Persuasion","The relationships among attitudes, behavioral intentions, and behavior ...","attitudes are correlated with behavior",0.79,NA,NA,138,90808,"Kim & Hunter, 1993b",1993
+208,"Persuasion","Sources are perceived to be ...","more credible when they use powerful language compared to powerless language",0.21,NA,NA,14,1299,"Burrell & Koper, 1986",1986
+209,"Persuasion","Sources are perceived to be ...","more credible when they used two-sided messages than one-sided messages",0.09,0.05,0.13,56,6937,"O’Keefe, 1999",1999
+210,"Persuasion","Sources are perceived to be ...","less competent when they use metaphor",0.01,-0.03,0.06,20,1938,"Sopory & Dillard, 2002",2002
+211,"Persuasion","Sources are perceived to be ...","less dynamic when they use metaphor",0.06,0,0.11,11,1252,"Sopory & Dillard, 2002",2002
+212,"Persuasion","Sources are perceived to be ...","to have less character when they use metaphor",0.02,-0.05,0.04,20,1936,"Sopory & Dillard, 2002",2002
+213,"Persuasion","Sources are perceived to be ...","Culturally adapted advertisements are more liked than non-adapted advertisements",0.08,0.03,0.14,66,6091,"Hornikx & O’Keefe, 2009",2009
+214,"Persuasion","Sources are perceived to be ...","Perceived message effectiveness is positively associated with actual message effectiveness",0.41,0.38,0.42,40,3006,"Dillard et al., 2007",2007
