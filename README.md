@@ -4,6 +4,8 @@ A total of 214 effect sizes from 149 meta-analyses from communication research d
 
 <img src="effect-sizes.png" width="500" alt="Magnitude of meta-analytic effect sizes in communication research">
 
+<img src="effect-size-by-field.png" width="700" alt="Magnitude of meta-analytic effect sizes in communication research - by field">
+
 ## Headers
 
 - `originalorder` is the order of the effect size as in Rains, Levine, & Weber (2018).
